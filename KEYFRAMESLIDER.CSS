@@ -1,0 +1,18 @@
+@keyframes slider {
+    0%{
+        background-image: url('https://www.globalblue.com/business/images/article926851.ece/alternates/LANDSCAPE2_970/TFS_Article_2019_970x643.jpg');
+    }
+    40%{
+        background-image: url('https://www.zooinfotech.com/wp-content/uploads/2018/09/shopping.jpg');
+    }
+    40%{
+        background-image: url('https://ocean.go2andaman.com/wp-content/uploads/2021/07/seven-heaven-havelock-boutique-shop.jpg?compress=true&quality=90&w=768&dpr=1.0');
+    }
+    50%{
+        background-image: url('https://img.freepik.com/free-photo/full-length-portrait-happy-family_171337-2281.jpg?w=2000');
+    }
+    75%{
+        background-image: url('https://img.freepik.com/free-photo/studio-shot-pretty-black-woman-with-white-shopping-bag-standing-yellow-background-trendy-spring-fashionable-look_273443-10.jpg?w=2000');
+    }
+    
+}

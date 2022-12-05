@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(247, 231, 231);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+.contact img{
+    width: 100px;
+}
+.contact img:hover{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name:;
+  }
